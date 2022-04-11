@@ -87,7 +87,7 @@
 87. [file87.js show --> Class practice and extends keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file87.js)
 88. [file88.js show --> Super keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file88.js)
 89. [file89.js show --> same method in base class](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file89.js)
-90. [file90.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file90.js)
+90. [file90.js show --> Getter and setter](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file90.js)
 91. [file91.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file91.js)
 92. [file92.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file92.js)
 93. [file93.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file93.js)
