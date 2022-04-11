@@ -11,7 +11,7 @@ class Person {
     static desc = "static property";// Static property
     get fullname() {
         return `${this.firstName} ${this.lastName}`;
-    }
+    }  
     setName(firstName, lastName) {
         this.firstName = firstName;
         this.lastName = lastName;

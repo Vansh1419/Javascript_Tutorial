@@ -1,4 +1,5 @@
-# Video -> 1 #
+# Video  1
+## Basics Of Programming In JavaScript
 1. [file1.js   show --> Printing on console and info about comments in javascript](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file1.js)
 2. [file2.js   show --> Info about variables](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file2.js)
 3. [file3.js   show --> Rules of naming variables](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file3.js)
@@ -24,6 +25,7 @@
 23. [file23.js  show --> for loop example](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file23.js)
 24. [file24.js  show --> Break and continue keywords](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file24.js)
 25. [file25.js  show --> do while loop](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file25.js)
+## Arrays In JavaScript
 26. [file26.js  show --> Arrays, its creation and indexing](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file26.js)
 27. [file27.js  show --> Arrays push, pop, shift, unshift](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file27.js)
 28. [file28.js  show --> Primitive vs Reference datatypes](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file28.js)
@@ -34,6 +36,7 @@
 33. [file33.js  show --> for of loop in array](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file33.js)
 34. [file34.js  show --> for in loop in array](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file34.js)
 35. [file35.js  show --> Arrays destructuring](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file135.js)
+## Objects In JavaScript
 36. [file36.js  show --> Objects](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file36.js)
 37. [file37.js  show --> Difference between dot and bracket notation while accessing key value pair](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file37.js)
 38. [file38.js  show --> How to itrate Objects](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file38.js)
@@ -42,18 +45,20 @@
 41. [file41.js  show --> Destructuring of objects](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file41.js)
 42. [file42.js  show --> Objects inside Arrays](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file42.js)
 43. [file43.js  show --> Nested destructuring](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file43.js)
+## Function In JavaScript
 44. [file44.js  show --> Introduction of Functions](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file44.js)
 45. [file45.js  show --> function expressions](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file45.js)
 46. [file46.js  show --> Arrow function](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file46.js)
 47. [file47.js  show --> hoisting functions](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file47.js)
 48. [file48.js  show --> function inside function](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file48.js)
 49. [file49.js  show --> lexical scope](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file49.js)
-50. [file50.js  show --> bloch scope and function scope](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file50.js)
+50. [file50.js  show --> block scope and function scope](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file50.js)
 51. [file51.js  show --> default parameters](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file51.js)
 52. [file52.js  show --> rest parameters](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file52.js)
 53. [file53.js  show --> Parameter destructuring](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file53.js)
 54. [file54.js  show --> Callback functions](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file54.js)
 55. [file55.js  show --> Function returning function](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file55.js)
+## Very Important Array Method
 56. [file56.js  show --> Important array methods](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file56.js)
 57. [file57.js  show --> Map method](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file57.js)
 58. [file58.js  show --> Filter method](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file58.js)
@@ -64,11 +69,13 @@
 63. [file63.js  show --> Some method](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file63.js)
 64. [file64.js  show --> Fill method](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file64.js)
 65. [file65.js  show --> Splice method](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file65.js)
+## More Useful Method
 66. [file66.js  show --> Iterables and array like objects](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file66.js)
 67. [file67.js  show --> Sets (intro)](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file67.js)
 68. [file68.js  show --> Maps](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file68.js)
 69. [file69.js  show --> Clone using Object.assign](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file69.js)
 70. [file70.js  show --> Optional chaining](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file70.js)
+## Object Oriented JavaScript/ Prototypal Inheritance
 71. [file71.js  show --> Methods](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file71.js)
 72. [file72.js  show --> this keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file72.js)
 73. [file73.js  show --> Call, apply and bind method](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file73.js)
