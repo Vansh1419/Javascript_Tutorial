@@ -85,7 +85,7 @@
 85. [file85.js  show --> More about prototype](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file85.js)
 86. [file86.js show --> Class keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file86.js)
 87. [file87.js show --> Class practice and extends keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file87.js)
-88. [file88.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file88.js)
+88. [file88.js show --> Super keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file88.js)
 89. [file89.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file89.js)
 90. [file90.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file90.js)
 91. [file91.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file91.js)
