@@ -83,7 +83,7 @@
 83. [file83.js  show --> New keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file83.js)
 84. [file84.js  show --> hasOwnProperty()](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file84.js)
 85. [file85.js  show --> More about prototype](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file85.js)
-86. [file86.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file86.js)
+86. [file86.js show --> Class keyword](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file86.js)
 87. [file87.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file87.js)
 88. [file88.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file88.js)
 89. [file89.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file89.js)
