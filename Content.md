@@ -104,7 +104,7 @@
 94. [file94.js show --> Function declaration(Global execution scope)](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file94.js)
 95. [file95.js show --> Hoisting](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file95.js)
 96. [file96.js show --> Hoisting with expression function](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file96.js)
-97. [file97.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file97.js)
+97. [file97.js show --> Hoisting in case of let and const](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file97.js)
 98. [file98.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file98.js)
 99. [file99.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file99.js)
 100. [file100.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file100.js)
