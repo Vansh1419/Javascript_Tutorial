@@ -100,7 +100,7 @@
 # Video 2
 ## How JavaScript Works
 92. [file92.js show --> Overview](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file92.js)
-93. [file93.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file93.js)
+93. [file93.js show --> Global execution scope](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file93.js)
 94. [file94.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file94.js)
 95. [file95.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file95.js)
 96. [file96.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file96.js)
