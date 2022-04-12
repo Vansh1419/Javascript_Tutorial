@@ -102,7 +102,7 @@
 92. [file92.js show --> Overview](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file92.js)
 93. [file93.js show --> Global execution scope](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file93.js)
 94. [file94.js show --> Function declaration(Global execution scope)](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file94.js)
-95. [file95.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file95.js)
+95. [file95.js show --> Hoisting](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file95.js)
 96. [file96.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file96.js)
 97. [file97.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file97.js)
 98. [file98.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file98.js)
