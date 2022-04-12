@@ -6,7 +6,7 @@ var firstName = "vansh";// ->4
 console.log(firstName);
 /*
 Global execution context has different phases
-1. Creation phase
+1. Creation phase/ Global memory
 a. Before execution of 4 varible firstName = undefined(in case of var) is created.
         firstName = undefined
 b. this = window (object provided by browser)
