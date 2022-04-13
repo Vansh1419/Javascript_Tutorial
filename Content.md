@@ -108,7 +108,7 @@
 98. [file98.js show --> Function execution context](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file98.js)
 99. [file99.js show --> Lexical environment and scope chain](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file99.js)
 100. [file100.js show --> Intro to Closures](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file100.js)
-101. [file101.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file101.js)
+101. [file101.js show --> Analysis of Closures](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file101.js)
 102. [file102.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file102.js)
 103. [file103.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file103.js)
 104. [file104.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file104.js)
