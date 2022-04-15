@@ -15,10 +15,10 @@
         ever .js file completely loads the html parsing stops and execution of .js file start
         . let there is of element reruired by .js file but it is not parsed yet then it will
         give error. -->
-    <script src="file103.js" defer></script>
+    <!-- <script src="file103.js" defer></script> -->
     <!-- in this html parsing and .js file loading takes place at same time. But execution
     .js file starts only when html parsing completes. It is the best method. -->
-
+    <script src="file104.js" defer></script>
     <title>My Website</title>
 </head>
 
@@ -33,7 +33,7 @@
             </ul>
         </nav>
         <div class="headline">
-            <h2>Manage your task</h2>
+            <h2 id="main-heading">Manage your task</h2>
             <button class="btn btn-headline">Learn More</button>
         </div>
     </header>

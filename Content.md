@@ -111,7 +111,7 @@
 101. [file101.js show --> Analysis of Closures](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file101.js)
 102. [file102.js show --> Closures Practice](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/file102.js)
 103. [file103.js show --> DOM (intro)](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file103.js)
-104. [file104.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file104.js)
+104. [file104.js show --> getElementById](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file104.js)
 105. [file105.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file105.js)
 106. [file106.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file106.js)
 107. [file107.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file107.js)
