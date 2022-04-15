@@ -116,7 +116,7 @@
 106. [file106.js show --> Change text](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file106.js)
 107. [file107.js show --> Change style of elements](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file107.js)
 108. [file108.js show --> Get and set atributes](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file108.js)
-109. [file109.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file109.js)
+109. [file109.js show --> Get multiple elements by getElementById and querrySelector](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file109.js)
 110. [file110.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file110.js)
 111. [file111.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file111.js)
 112. [file112.js show --> ](https://github.com/Vansh1419/Javascript_Tutorial/blob/master/js_files/DOM_Learning/file112.js)
