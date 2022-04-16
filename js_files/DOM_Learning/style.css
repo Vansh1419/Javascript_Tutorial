@@ -62,6 +62,10 @@ nav{
     margin-top: 5rem;
     text-align: center;
 }
+.bg-dark{
+    background: black;
+    color: white;
+}
 .form-todo{
      min-height: 5vh;
     display: flex;
